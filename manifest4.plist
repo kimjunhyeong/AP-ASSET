@@ -13,29 +13,17 @@
 					<key>url</key>
 					<string>https://github.com/kimjunhyeong/AP-ASSET/blob/master/AP-TAS.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://github.com/kimjunhyeong/AP-ASSET/blob/master/icon57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://github.com/kimjunhyeong/AP-ASSET/blob/master/icon512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.amorepacific.apasset</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ManagementSystem</string>
+				<string>AP-ASSET</string>
 			</dict>
 		</dict>
 	</array>
