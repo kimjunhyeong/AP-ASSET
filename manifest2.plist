@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://asset.amorepacific.com/m/app/AP-TAS.ipa</string>
+					<string>https://asset.stg.amorepacific.com/m/app/AP-TAS.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
