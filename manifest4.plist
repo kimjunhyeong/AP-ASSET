@@ -11,20 +11,23 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://1.234.39.237/FMS_MOB/upload/AP-TAS2.ipa</string>
+					<string>https://github.com/kimjunhyeong/AP-ASSET/edit/master/test_file.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.amorepacific.apasset</string>
+				<string>com.jitpower.HEINEK-MOB2</string>
 				<key>bundle-version</key>
-				<string>1.3.0</string>
+				<string>3</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>AP-ASSET</string>
+				<string>자산관리시스템</string>
 			</dict>
+			
 		</dict>
 	</array>
 </dict>
